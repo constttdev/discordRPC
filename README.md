@@ -8,6 +8,7 @@ Set your discord activity with a few simple prompts
 ## Installation
 
 Clone the github repo using `git clone https://github.com/constttdev/discordRPC`
+
 Or download the Repo by clicking on the **Code** button and then **Download ZIP**
 
 ## Documentation
